@@ -1,0 +1,40 @@
+﻿  ex04_01.c
+  ex04_02.c
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_01.c(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_02.c(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ex04_03.c
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_03.c(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_03.c(13,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ex04_04.c
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_04.c(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ex04_07.c
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_07.c(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_07.c(13,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ex04_08.c
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_08.c(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ex04_09.c
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_09.c(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ex04_10.c
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_10.c(11,33): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+      C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_10.c(11,33):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 3개가 제공되었습니다.
+  
+  ex04_12.c
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_12.c(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ex04_13.c
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_13.c(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_13.c(13,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ex04_14.c
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_14.c(11,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_14.c(11,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_14.c(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_14.c(15,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_14.c(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ex04_15.c
+C:\Users\Gyumae\source\repos\Chap04\Chap04\ex04_15.c(9,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ex04_16.c
+  코드를 생성하고 있습니다...
